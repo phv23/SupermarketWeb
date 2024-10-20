@@ -1,0 +1,15 @@
+﻿ Đây là 1 số thông tin cần cấu hình lại trước khi chạy project SupermarketWeb lần đầu tiên trên máy cá nhân:
+
+1) Đảm bảo rằng folder "Data Access/Migrations" không còn xuất hiện ở thời điểm cấu hình chạy lần đầu. 
+Nếu thấy, phải xóa folder Migrations.
+
+2) Trong file "Presentation/appsettings.json" có chứa cụm ConnectionStrings. Đây là nơi xác định CSDL nào sẽ kết nối đến.
+Mặc định là "Data Source=103.186.147.242\\SQL;Initial Catalog=Web;User ID=sa;Password=db123@;Trust Server Certificate=True"
+Đây là VPS đã được cài SQL Server. Tuy nhiên có thể thay đổi nếu muốn dùng SQL Server riêng. Chuỗi thay đổi như sau:
+"Data Source= <x> ;Initial Catalog= <y> ;Integrated Security=True;Trusted_Connection=True;Trust Server Certificate=True"
+Với <x> là tên mã máy, <y> là tên DataBase
+
+3) Sau khi đã kiểm tra, thiết lập xong ở ý 1 và 2, tại cửa sổ của Project, chọn Tools -> NuGet Package Manager -> Package Manager Console
+Phần dưới hiện lên khung và trên khung có chữ PM>, tại phần Default project, chọn Data Access. Ấn chuột vào PM> và bắt đầu gõ lệnh:
+ Add-Migration init
+ Update-Database

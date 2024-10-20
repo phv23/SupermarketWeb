@@ -1,0 +1,15 @@
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.csproj.AssemblyReference.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.AssemblyInfoInputs.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.AssemblyInfo.cs
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.csproj.CoreCompileInputs.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\bin\Debug\net7.0\Business Logic.deps.json
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\bin\Debug\net7.0\Business Logic.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\bin\Debug\net7.0\Business Logic.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\bin\Debug\net7.0\Data Access.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\bin\Debug\net7.0\Data Access.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business.31A8D8CC.Up2Date
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\refint\Business Logic.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\Business Logic.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Business Logic\obj\Debug\net7.0\ref\Business Logic.dll

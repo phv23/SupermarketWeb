@@ -1,0 +1,17 @@
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\WebSystem.deps.json
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\WebSystem.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\WebSystem.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.csproj.AssemblyReference.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.AssemblyInfoInputs.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.AssemblyInfo.cs
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.csproj.CoreCompileInputs.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\refint\WebSystem.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\ref\WebSystem.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\Business Logic.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\Data Access.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\Business Logic.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\bin\Debug\net7.0\Data Access.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\System\obj\Debug\net7.0\WebSystem.csproj.Up2Date

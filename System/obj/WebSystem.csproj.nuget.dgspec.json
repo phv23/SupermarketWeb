@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\System\\WebSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Business Logic\\Business Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Business Logic\\Business Logic.csproj",
+        "projectName": "Business Logic",
+        "projectPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Business Logic\\Business Logic.csproj",
+        "packagesPath": "C:\\Users\\namcu\\.nuget\\packages\\",
+        "outputPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Business Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\.Virtual Studio\\Tools\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj": {
+                "projectPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj",
+        "projectName": "Data Access",
+        "projectPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj",
+        "packagesPath": "C:\\Users\\namcu\\.nuget\\packages\\",
+        "outputPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\.Virtual Studio\\Tools\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\System\\WebSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\System\\WebSystem.csproj",
+        "projectName": "WebSystem",
+        "projectPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\System\\WebSystem.csproj",
+        "packagesPath": "C:\\Users\\namcu\\.nuget\\packages\\",
+        "outputPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\System\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\.Virtual Studio\\Tools\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Business Logic\\Business Logic.csproj": {
+                "projectPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Business Logic\\Business Logic.csproj"
+              },
+              "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj": {
+                "projectPath": "D:\\.Virtual Studio\\Code Storage\\SupermarketWeb\\Data Access\\Data Access.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

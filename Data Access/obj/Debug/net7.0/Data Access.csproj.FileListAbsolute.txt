@@ -1,0 +1,12 @@
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.csproj.AssemblyReference.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.AssemblyInfoInputs.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.AssemblyInfo.cs
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.csproj.CoreCompileInputs.cache
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\bin\Debug\net7.0\Data Access.deps.json
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\bin\Debug\net7.0\Data Access.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\bin\Debug\net7.0\Data Access.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\refint\Data Access.dll
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\Data Access.pdb
+D:\.Virtual Studio\Code Storage\SupermarketWeb\Data Access\obj\Debug\net7.0\ref\Data Access.dll
